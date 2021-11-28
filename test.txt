@@ -1,0 +1,1 @@
+on peut aussi tester le programme avec un fichier texte pour vérifier que ca marche (EXO1)
